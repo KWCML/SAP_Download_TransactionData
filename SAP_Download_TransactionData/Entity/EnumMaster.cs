@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SAP_Download_TransactionData.Entity
+{
+    public class EnumMaster
+    {
+        public enum ActionName
+        {
+            DocketData
+        }
+    }
+}
